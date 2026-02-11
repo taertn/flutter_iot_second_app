@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:flutter_iot_second_app/views/_home_ui.dart';
+import 'package:flutter_iot_second_app/views/home_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 void main(){
